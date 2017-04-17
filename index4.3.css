@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-11 20:47:47
+ * @version $Id$
+ */
+.parent{
+	width: 780px;
+	height:385px;
+	border: 1px solid gray;
+}
+.son{
+	width: 250px;
+	height:185px;
+	border: 1px solid gray;
+	float:left;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+#p1{
+	font-size: xx-small;
+	padding-top: 10px;
+	
+}
+#p2{
+	font-size: xx-small;
+	line-height: 0px;
+	color: red;
+}
+#p3{
+	
+	line-height: 0px;
+	color: red;
+}
+#p4{
+	font-size: xx-small;
+	color: gray;
+
+}
+#p5{
+	font-size: xx-small;
+	color: gray;
+	text-decoration: line-through;
+
+
+}
+#p6{
+	font-size: xx-small;
+	float: right;
+	
+	}

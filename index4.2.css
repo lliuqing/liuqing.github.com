@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-11 19:32:54
+ * @version $Id$
+ */
+ #p1{
+ 	text-decoration: line-through;
+ 	font-size: xx-small;
+ 	font-family: "楷书"；
+ 	
+ 
+
+    
+ }
+ #p2{
+ 	color: red;
+ 	font-weight: bold;
+ 	font-family: "行书"；
+ }
+ #p3{
+ 	font-size: xx-small;
+ 	font-family: "隶书"；
+
+ }
+ #p4{
+ 	font-size: xx-small;
+ 	color: red;
+ 	font-family: "隶书"；
+
+ }
+ #p5{
+ 	font-size: xx-small;
+ 	float:right;
+ 	padding-bottom:1px
+ }
+
+
+ .parent{
+ 	width: 600px;
+ 	height: 450px;
+ 	background-color: green;
+ 	border: 1px solid green;
+
+ }
+ .son1{
+ 	width: 390px;
+ 	height: 260px;
+ 	background-color: yellow;
+ 	border: 1px solid black;
+ 	margin-top: 30px;
+ 	margin-left: 100px;
+
+ 	
+ }
+ .son2{
+ 	width: 390px;
+ 	height: 116px;
+ 	background-color: pink;
+ 	border: 1px solid black;
+ 	margin-top: 0px;
+ 	margin-left: 100px;
+ 	
+ }
+  .son21{
+ 	width: 370px;
+ 	height: 20px;
+ 	background-color: yellow;
+ 	border: 1px solid black;
+ 	margin-top: 10px;
+ 	margin-left: 10px;
+
+
+ 	
+ }
+ .son22{
+ 	width: 370px;
+ 	height: 30px;
+ 	background-color: yellow;
+ 	border: 1px solid black;
+ 	margin-top: 10px;
+ 	margin-left: 10px;
+ 	
+
+position:relative
+ 	
+ }
+
+
+

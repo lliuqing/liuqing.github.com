@@ -1,0 +1,134 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-07 08:28:45
+ * @version $Id$
+ */
+ #mainbox1 {
+ 	height:1000px ;
+ 	width:1000px;
+ 	background-color: green ;
+ 	 border:1px solid green;
+ 	 
+
+}
+#mainbox2 {
+ 	height:600px ;
+ 	width:800px;
+ 	background-color: blue ;
+ 	 border:1px solid black;
+ 	 margin-left: 100px;
+ 	 margin-top: 100px;
+ 	 
+
+}
+#mainbox3 {
+ 	height:120px ;
+ 	width:760px;
+ 	background-color: green ;
+ 	 border:1px solid black;
+ 	 margin-left: 20px;
+ 	 margin-top: 20px;
+ 	 
+
+}
+#mainbox4 {
+ 	height:420px ;
+ 	width:760px;
+ 	background-color: green ;
+ 	 border:1px solid black;
+ 	 margin-left: 20px;
+ 	 margin-top: 20px;
+ 	 
+
+}
+
+#m1 {
+ 	height:80px ;
+ 	width:80px;
+ 	background-color: blue ;
+ 	 border:1px solid black;
+ 	 margin-left: 20px;
+ 	 margin-top: 20px;
+ 	  float:left;
+ 	 
+
+}
+#m2 {
+ 	height:80px ;
+ 	width:80px;
+ 	background-color: blue ;
+ 	 border:1px solid black;
+ 	 margin-left: 40px;
+ 	 margin-top: 20px;
+ 	 float:left;
+ 	 
+
+}
+#m3 {
+ 	height:80px ;
+ 	width:80px;
+ 	background-color: blue ;
+ 	 border:1px solid black;
+ 	 margin-right: 20px;
+ 	 margin-top: 20px;
+ 	 float:right;
+ 	 
+
+}
+#x1 {
+ 	height:300px ;
+ 	width:200px;
+ 	background-color: blue ;
+ 	 border:1px solid black;
+ 	 margin-left: 20px;
+ 	 margin-top: 20px;
+ 	 float:left;
+ 	 
+
+}
+#x2 {
+ 	height:40px ;
+ 	width:480px;
+ 	background-color: blue ;
+ 	 border:1px solid black;
+ 	 margin-right: 20px;
+ 	 margin-top: 20px;
+ 	 float:right;
+ 	 
+
+}
+#x3 {
+ 	height:40px ;
+ 	width:480px;
+ 	background-color: blue ;
+ 	 border:1px solid black;
+ 	 margin-right: 20px;
+ 	 margin-top: 15px;
+ 	 float:right;
+ 	 
+
+}
+#x4 {
+ 	height:50px ;
+ 	width:50px;
+ 	background-color: blue ;
+ 	 border:1px solid black;
+ 	 margin-left: 20px;
+ 	 margin-bottom: 20px;
+ 	 float:left;
+ 	 
+
+}
+#x5 {
+ 	height:50px ;
+ 	width:50px;
+ 	background-color: blue ;
+ 	 border:1px solid black;
+ 	 margin-left: 25px;
+ 	 margin-bottom: 20px;
+ 	 float:left;
+ 	 
+
+}
