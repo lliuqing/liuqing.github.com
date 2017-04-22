@@ -1,0 +1,217 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-21 08:58:43
+ * @version $Id$
+ */
+ #p1{
+ 	margin-top: 5px;
+
+ 	
+}
+ #p2{
+ 	margin-left: 615px;
+ 	color: MediumBlue;
+}
+ #p3{
+ 	float: right;
+ 	color: MediumBlue;
+}
+ #p4{
+ 	margin-left:270px;
+ 	
+ 	line-height:50px;
+}
+ #p5{
+ 	padding-bottom:5px;
+}
+ #p6{
+ 	margin-top: 0px;
+ 	
+}
+#p7{
+	line-height: 40px;
+}
+#p8{
+	line-height: 50px;
+}
+
+.parent1{
+	width: 750px;
+	height: 25px;
+	border: 0px solid black;
+	
+}
+.s1{
+	width: 75px;
+	height: 25px;
+	border: 1px solid MediumBlue;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	float:left;
+	background:MediumBlue;
+}
+.s2{
+	width: 20px;
+	height: 20px;
+	border: 1px solid orange;
+	background: orange; 
+	border-radius: 5px;
+	float:left;
+	margin-left: 5px;
+}
+.parent2{
+	width: 750px;
+	height: 3px;
+	border: 1px solid MediumBlue;
+	background: MediumBlue;
+}
+.parent3{
+	width: 750px;
+	height: 50px;
+	border: 1px solid gray;
+	background: WhiteSmoke;
+	
+}
+.parent4{
+	width: 750px;
+	height: 25px;
+	border: 1px solid gray;
+	background: PaleGoldenRod;
+	
+}
+.parent5{
+	width: 420px;
+	height: 20px;
+	border: 1px solid white;
+	background: LightSteelBlue;
+	margin-top:3px;
+	float: left;
+	
+}
+.parent6{
+	width: 76px;
+	height: 20px;
+	border: 1px solid white;
+	background: LightSteelBlue;
+	margin-top:3px;
+	float: left;
+	
+}
+.parent7{
+	width: 97px;
+	height: 20px;
+	border: 1px solid white;
+	background: LightSteelBlue;
+	margin-top:3px;
+	float: left;
+	
+}
+.parent8{
+	width: 750px;
+	height: 50px;
+	border: 1px solid gray;
+	background: Gainsboro;
+	margin-top:20px;
+	text-align: center;
+	
+}
+.parent9{
+	width: 750px;
+	height: 40px;
+	border: 1px solid white;
+	
+	
+}
+.a1{
+	width: 100px;
+	height: 40px;
+	border: 1px solid white;
+	float: left;
+	text-align: center;
+	
+	
+}
+.a2{
+	width: 330px;
+	height: 40px;
+	border: 1px solid white;
+	float: left;
+	
+	
+	
+	
+}
+.a3{
+	width: 77px;
+	height: 40px;
+	border-left: 1px solid gray;
+	float: left;
+	text-align: center;
+	
+	
+	
+}
+.a4{
+	width: 79px;
+	height: 40px;
+	border-left: 1px solid gray;
+	float: left;
+	
+	
+}
+.parent10{
+	width: 750px;
+	height: 50px;
+	border: 1px solid gray;
+	background: Gainsboro;
+	margin-top:0px;
+	
+	
+}
+.b1{
+	width: 430px;
+	height: 50px;
+	border: 1px solid Gainsboro;
+	background: Gainsboro;
+	float: left;
+	
+	
+	
+}
+.b2{
+	width: 77px;
+	height: 50px;
+	border: 1px solid Gainsboro;
+	background: Gainsboro;
+	float: left;
+	
+	
+	
+}
+.b3{
+	width: 220px;
+	height: 50px;
+	border: 1px solid Gainsboro;
+	background: Gainsboro;
+	float: left;
+	
+	
+}
+.parent11{
+	width: 750px;
+	height: 40px;
+	border: 1px solid white;
+	
+	
+}
+.parent12{
+	width: 750px;
+	height: 50px;
+	border: 1px solid gray;
+	background: Gainsboro;
+	margin-top:0px;
+	
+	
+}
